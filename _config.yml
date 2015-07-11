@@ -2,7 +2,7 @@
 title: The Omar Report
 email: omar@omar.report
 description: another shitty blog about the future
-baseurl: "/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://omar.report" # the base hostname & protocol for your site
 twitter_username: omarqazi
 github_username:  omarqazi
