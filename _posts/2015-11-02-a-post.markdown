@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "A Post"
+date:   2015-11-02 23:09:00
+categories: blog
+---
+
+Fuck, I need to write more. I'm going to try and post something here every day.
