@@ -10,6 +10,6 @@ permalink: /about/
 2. I was born in Los Angeles in 1993
 3. I live in the San Francisco Bay Area now
 4. I've been making software since around 2000
-5. I'm trying to write at least 250 words here every day
+5. I'm trying to write at least 250 a few thoughts here every day
 
 This is my shitty website
